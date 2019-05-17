@@ -1,0 +1,25 @@
+body{
+	margin: auto;
+	width: 50%;
+	border: 20px solid #bdc3c7;
+	font-family: "Source Sans Pro";
+	padding:10px;
+}
+
+h2{
+	font-weight: bold;
+}
+h4{
+	text-transform: uppercase;
+	color: #3498db;
+}
+
+.first {
+	border-left: 3px solid #bdc3c7;
+	padding: 5px;
+}
+
+div{
+	border-bottom: 2px solid #bdc3c7;
+	margin: 2%;
+}
